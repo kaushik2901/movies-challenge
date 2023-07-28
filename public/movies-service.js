@@ -1,4 +1,4 @@
-const url = "http://localhost:3000/api/movies";
+const url = "/api/movies";
 
 export default {
   getAllMovies(callback) {
